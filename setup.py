@@ -1,4 +1,5 @@
 # Jangan Lupa Subscribe Yt Gw yak Bre !!
+# -*- coding: utf-8 -*-
 import os, sys
 script_name = 'mardis.py'
 source_code = open(script_name).read()
